@@ -31,7 +31,7 @@ Slicers and interactive charts enable flexible exploration of different business
 
 Visual storytelling with KPIs makes complex data easily understandable by stakeholders.
 
-## Conclusion
+## Outcome
 This project demonstrates how a well-designed Excel dashboard can help businesses like FNP understand their sales dynamics, target high-performing products, and better serve customers during key occasions. It showcases strong skills in data analysis, dashboard creation, and business storytelling.
 
 
